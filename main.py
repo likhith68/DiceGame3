@@ -2,7 +2,7 @@ from tkinter import *
 import random
 r=Tk()
 r.title("ROLL DICE")
-r.geometry("800x600")
+r.geometry("500x500")
 
 #label defintion
 label=Label(r,font=('comics',250,'bold'),text='')
